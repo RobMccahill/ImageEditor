@@ -1,5 +1,8 @@
 # Image Editor
 
+![Example Screenshot](Screenshots/ExampleScreenshot.png)
+
+
 This is a personal project to explore building an image editor using SwiftUI, CoreImage, and Metal Performance Shaders.
 
 Currently you can:
