@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E1760F112DD6317B00EDA3F6 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = E1760F102DD6317500EDA3F6 /* Readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		E10ACE542D49044300B5F914 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		E10ACE422D49044200B5F914 /* ImageEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10ACE532D49044300B5F914 /* ImageEditorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageEditorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10ACE5D2D49044300B5F914 /* ImageEditorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageEditorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1760F102DD6317500EDA3F6 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		E10ACE392D49044200B5F914 = {
 			isa = PBXGroup;
 			children = (
+				E1760F102DD6317500EDA3F6 /* Readme.md */,
 				E10ACE442D49044200B5F914 /* ImageEditor */,
 				E10ACE562D49044300B5F914 /* ImageEditorTests */,
 				E10ACE602D49044300B5F914 /* ImageEditorUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1760F112DD6317B00EDA3F6 /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
